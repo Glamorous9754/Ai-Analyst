@@ -36,7 +36,7 @@ This AI employee prototype specializes in performing data analysis, generating v
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/ai-employee-prototype.git
+   git clone https://github.com/Glamorous9754/Ai-Analyst.git
    ```
    
 2. **Navigate to the project directory**:
